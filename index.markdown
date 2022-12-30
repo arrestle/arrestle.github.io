@@ -5,5 +5,4 @@
 layout: home
 ---
 
-
-## Open Food - Know the impact of your dietary choices. ##
+Open Food - Know the impact of your dietary choices.
